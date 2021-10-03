@@ -8,7 +8,7 @@
     var p=0
     var x=40
     var k=0
-    var y=150
+    var y=160
     var tablex=0
     var tablewidth=0
     var score=0
