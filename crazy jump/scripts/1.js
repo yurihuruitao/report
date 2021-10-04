@@ -8,7 +8,7 @@
     var p=0
     var x=40
     var k=0
-    var y=160
+    var y=150
     var tablex=0
     var tablewidth=0
     var score=0
@@ -65,7 +65,7 @@
         y=150-0.5*k+0.0001*9.8*0.1*k*0.1*k*1/2*100
         ctx.fillRect(x,y,p,5)
         //body
-        ctx.fillStyle="red"
+        ctx.fillStyle="blue"
         ctx.beginPath();
         ctx.moveTo(x+10, y+90);
         ctx.lineTo(x+20, y+50);
