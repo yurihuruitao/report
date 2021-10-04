@@ -1,18 +1,18 @@
 1、vscode击中断点的截图
-![Image text](https://github.com/yurihuruitao/report/blob/master/vscode%E6%96%AD%E7%82%B9.png)
+![avatar](https://github.com/yurihuruitao/report/blob/master/vscode%E6%96%AD%E7%82%B9.png)
 
 2、安装git成功的截图
-![Image text](https://github.com/yurihuruitao/report/blob/master/git%E5%AE%89%E8%A3%85%E5%AE%8C%E6%88%90.png)
+![avatar](https://github.com/yurihuruitao/report/blob/master/git%E5%AE%89%E8%A3%85%E5%AE%8C%E6%88%90.png)
 
 3、很多人在同时工作时内容不同步，每一个修改过的版本很难管理
 
 4、同步后的仓库截图
-![Image text](https://github.com/yurihuruitao/report/blob/master/%E5%90%8C%E6%AD%A5%E5%90%8E%E7%9A%84%E4%BB%93%E5%BA%93.png)
+![avatar](https://github.com/yurihuruitao/report/blob/master/%E5%90%8C%E6%AD%A5%E5%90%8E%E7%9A%84%E4%BB%93%E5%BA%93.png)
 需要先保存到工作区，然后add到暂存区，commit到本地仓库，最后push到github云端仓库
 
 
 5、经过一系列修改后的仓库截图
-![Image text](https://github.com/yurihuruitao/report/blob/master/%E7%BB%8F%E8%BF%87push%E7%AD%89%E4%BF%AE%E6%94%B9%E5%90%8E%E7%9A%84%E4%BB%93%E5%BA%93.png)
+![avatar](https://github.com/yurihuruitao/report/blob/master/%E7%BB%8F%E8%BF%87push%E7%AD%89%E4%BF%AE%E6%94%B9%E5%90%8E%E7%9A%84%E4%BB%93%E5%BA%93.png)
 git clone 将github云端仓库里的东西下载到本地仓库
 git add 将工作区的文件添加到暂存区
 git commit 将文件确认至本地仓库
